@@ -1,5 +1,5 @@
-project = 
-object = 
+project = launch
+object = cwnd
 cflags = -c -O3 -DUNICODE -finput-charset=UTF-8
 lflags = -mwindows -static -s -fexec-charset=GBK 
 path_obj = build/obj
